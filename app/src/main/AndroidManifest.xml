@@ -19,7 +19,8 @@
 
         <meta-data
             android:name="com.google.android.actions"
-            android:resource="@xml/shape" />
+            android:resource="@drawable/button_round"
+            />
     </application>
 
 </manifest>
